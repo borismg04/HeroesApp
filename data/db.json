@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": null
     },
     {
       "id": "dc-flash",
@@ -166,15 +167,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "D1Zof0d",
-      "superhero": "Snake solid",
-      "publisher": "DC Comics",
-      "alter_ego": "Solid Snake",
-      "first_appearance": "Msg Solid Snake",
-      "characters": "strider",
-      "alt_img": "https://img1.cgtrader.com/items/2384434/e64181d0a5/large/solid-snake-metal-gear-solid-1-version-fan-art-3d-model-stl.jpg"
     }
   ]
 }
